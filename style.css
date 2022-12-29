@@ -1,0 +1,75 @@
+
+h1{
+    font-size: 63px;
+    color:#994d00;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 54px;
+    color: #303030;
+    font-weight: 600;
+}
+
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ff8000;
+    text-shadow: 2px 2px 2px #994d00;
+}
+
+#icons ul{
+    display: flex;
+    justify-content: center;
+}
+
+#icons ul a{
+    list-style-type: none;
+    padding-right: 14px;
+}
+#texto{
+    
+    align-content: center;
+}
+
+.texto{
+    margin-left: 80px;
+}
+
+.container-footer{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.footer {
+    background-color: #FFC107;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+}
+
+.estilo-icon {
+    font-size: 32px;
+    margin-right: 10px;
+}
+
+.links {
+    text-decoration: none;
+    color: #994d00;
+}
+
+.lista-footer li {
+    color: #994d00;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+}
+
